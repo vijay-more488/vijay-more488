@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/vijay-more488/vijay-more488/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Vijay More</h1>
 <h3 align="center">I am passionate about full-stack developer from Pune</h3>
 
