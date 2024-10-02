@@ -16,7 +16,7 @@
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-more-465a0b32b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bolqtin76qkat9wavcplsag%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-more-465a0b32b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bolqtin76qkat9wavcplsag%3d%3d" height="30" width="40" /></a>
    -->
- <a href="linkedin.com/in/vijay-pmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-more-465a0b32b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bolqtin76qkat9wavcplsag%3d%3d" height="30" width="40" /></a>
+ <a href="linkedin.com/in/vijay-pmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vijay-pmore" height="30" width="40" /></a>
    
 
    
