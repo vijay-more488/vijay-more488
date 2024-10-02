@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijay-pmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-pmore" height="30" width="40" /></a>
-<a href="https://instagram.com/vijaymore2564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaymore2564" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/morevijay488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="morevijay488" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijay-more488&show_icons=true&locale=en" alt="vijay-more488" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-more488&" alt="vijay-more488" /></p>
-
