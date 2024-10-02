@@ -1,12 +1,9 @@
-![logo](https://github.com/vijay-more488/vijay-more488/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Vijay More</h1>
-<h3 align="center">I am passionate about full-stack developer from Pune</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-more488&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-more488" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=more937&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-more488" /> </p>
-
-- 🔭 recently completed my post graduation master of computer application from sant gadge baba amaravati university [CarRentalService](https://github.com/vijay-more488/carrentalservie.git)
+- 🔭 recently completed my post graduation master of computer application from sant Gadge Baba Amaravati University [CarRentalService](https://github.com/vijay-more488/carrentalservie.git)
 
 - 🌱 I’m currently learning **react js**
 
@@ -14,14 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-more-465a0b32b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bolqtin76qkat9wavcplsag%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-more-465a0b32b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bolqtin76qkat9wavcplsag%3d%3d" height="30" width="40" /></a>
-   -->
- <a href="linkedin.com/in/vijay-pmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vijay-pmore" height="30" width="40" /></a>
-   
-
-   
-  
+<a href="https://linkedin.com/in/linkedin.com/in/vijay-pmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vijay-pmore" height="30" width="40" /></a>
 <a href="https://instagram.com/vijaymore2564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaymore2564" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/morevijay488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/morevijay488" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
